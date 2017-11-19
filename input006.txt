@@ -1,0 +1,11 @@
+10
+Alice;START
+Alice;2
+Alice;START
+Alice;1
+Alice;START
+Alice;4
+Alice;START
+Bob;START
+Bob;4
+Alice;3
